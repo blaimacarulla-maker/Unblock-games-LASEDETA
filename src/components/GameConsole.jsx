@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { Maximize2, Minimize2, RotateCcw, ThumbsUp, ThumbsDown, MessageSquare, Play, Calendar, User, Wifi, Info } from 'lucide-react';
-import CyberMinesweeper from './CyberMinesweeper';
-import RetroClicker from './RetroClicker';
+import CyberMinesweeper from './CyberMinesweeper.jsx';
+import RetroClicker from './RetroClicker.jsx';
 
 export default function GameConsole({ game, onClose, onRatingUpdate }) {
   const [iframeLoaded, setIframeLoaded] = useState(false);

@@ -1,9 +1,9 @@
 import { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import curatedGamesData from './data/games.json';
-import GameCard from './components/GameCard';
-import GameConsole from './components/GameConsole';
-import AddGameModal from './components/AddGameModal';
+import GameCard from './components/GameCard.jsx';
+import GameConsole from './components/GameConsole.jsx';
+import AddGameModal from './components/AddGameModal.jsx';
 import { Search, Gamepad2, Heart, Plus, Trophy, Clock, Flame, Archive } from 'lucide-react';
 
 export default function App() {

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pacman",
+    "title": "Google Pac-Man Retro",
+    "description": "The timeless retro arcade classic. Navigate the maze, gobble up pac-dots, and evade Blinky, Pinky, Inky, and Clyde to achieve high scores.",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "category": "Retro",
+    "controls": "Arrow keys to steer and run away from ghosts.",
+    "rating": 4.8,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+    "developer": "Google Doodle Clone",
+    "isFeatured": true
+  },
+  {
+    "id": "2048",
+    "title": "2048 Puzzle",
+    "description": "Combine sliding numbered tiles in a grid to merge them and reach the ultimate 2048 tile in this highly addictive logic-based puzzle game.",
+    "iframeUrl": "https://gabrielecirulli.github.io/2048/",
+    "category": "Puzzle",
+    "controls": "Arrow keys to slide tiles in all four directions.",
+    "rating": 4.7,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1611195974226-a6a9be9dd763?w=600&auto=format&fit=crop&q=80",
+    "developer": "Gabriele Cirulli",
+    "isFeatured": true
+  },
+  {
+    "id": "snake",
+    "title": "Classic Retro Snake",
+    "description": "Guide the hungry snake to eat pellets and grow longer. Be extremely careful not to run into walls or bite your own growing tail!",
+    "iframeUrl": "https://vanderb.github.io/snake/",
+    "category": "Casual",
+    "controls": "Arrow keys or WASD to control direction.",
+    "rating": 4.5,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?w=600&auto=format&fit=crop&q=80",
+    "developer": "Open Source HTML5 Design",
+    "isFeatured": false
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris Action",
+    "description": "A high-speed combination of Tetris and hexagon matching. Rotate the hexagon block to stack colored bricks together in triplets or more.",
+    "iframeUrl": "https://hextris.github.io/hextris/",
+    "category": "Action",
+    "controls": "Left and Right Arrow keys (or A and D) to rotate. Spacebar to drop.",
+    "rating": 4.6,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "developer": "Hextris Team",
+    "isFeatured": true
+  },
+  {
+    "id": "trex",
+    "title": "T-Rex Runner",
+    "description": "The legendary offline browser game. Help the running dinosaur leap over cactus plants and dodge flying pterodactyls in this infinite runner.",
+    "iframeUrl": "https://wayou.github.io/t-rex-runner/",
+    "category": "Arcade",
+    "controls": "Spacebar or Up Arrow to jump. Down Arrow to duck under obstacles.",
+    "rating": 4.4,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&auto=format&fit=crop&q=80",
+    "developer": "Google / Wayou Runner Clone",
+    "isFeatured": false
+  },
+  {
+    "id": "flappybird",
+    "title": "Flappy Bird Revival",
+    "description": "The notorious hurdle-dodging arcade game. Tap precisely to flap your wings and clear narrow gaps in a series of green industrial pipes.",
+    "iframeUrl": "https://nebez.github.io/floppybird/",
+    "category": "Arcade",
+    "controls": "Click inside the game, or press Spacebar / Touch screen to flap.",
+    "rating": 4.3,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop&q=80",
+    "developer": "Nebez Clone",
+    "isFeatured": false
+  },
+  {
+    "id": "minesweeper_internal",
+    "title": "Cyber Minesweeper",
+    "description": "A customized interactive space Minesweeper built directly into the Hub. Clear the grid without detonating hidden dark-matter mines.",
+    "iframeUrl": "internal_minesweeper",
+    "category": "Puzzle",
+    "controls": "Left click to reveal a tile. Right click to place/remove a protective shield flag.",
+    "rating": 4.9,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1549490349-8643362247b5?w=600&auto=format&fit=crop&q=80",
+    "developer": "Arcade Built-in",
+    "isFeatured": true
+  },
+  {
+    "id": "neon_clicker_internal",
+    "title": "Retro Miner Clicker",
+    "description": "An interactive pixel ore mining clicker. Accumulate space credits, hire AI mining droids, and upgrade pickaxes to expand your operation.",
+    "iframeUrl": "internal_clicker",
+    "category": "Casual",
+    "controls": "Click the central glowing reactor tile to mine. Click upgrades to automate mining.",
+    "rating": 4.8,
+    "thumbnailUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&auto=format&fit=crop&q=80",
+    "developer": "Arcade Built-in",
+    "isFeatured": false
+  }
+]

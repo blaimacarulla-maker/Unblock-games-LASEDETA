@@ -1,0 +1,11 @@
+{
+  "name": "Unblocked Games Hub",
+  "description": "A collection of clean, classic browser games embedded via safe iframes. Browse categories, rate, favorite, and load your custom unblocked game list.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
